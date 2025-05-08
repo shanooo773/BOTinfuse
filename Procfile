@@ -1,1 +1,1 @@
-web: gunicorn PRAC2.wsgi
+web: gunicorn prac2.wsgi
